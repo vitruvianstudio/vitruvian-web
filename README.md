@@ -9,7 +9,7 @@ cd public
 git clone https://github.com/vitruvianstudio/spritesheets.git
 cd ..
 cd bin
-curl https://raw.githubusercontent.com/ElizaWy/LPC/refs/heads/main/Characters/_%20Guides%20%26%20Palettes/Color%20Palettes/Ramps.json
+curl https://raw.githubusercontent.com/ElizaWy/LPC/refs/heads/main/Characters/_%20Guides%20%26%20Palettes/Color%20Palettes/Ramps.json -O
 python3 pack.py
 ```
 
